@@ -17,7 +17,7 @@ An autonomous robot that navigates around obstacles using an **HC-SR04 ultrasoni
 
 
 ##  How to Use  
-1. Upload `obstacle_avoidance.ino` to your Arduino  
+1. Upload `car_combined.ino` to your Arduino  
 2. Power the circuit using batteries  
 3. Watch the robot avoid obstacles automatically!  
 
